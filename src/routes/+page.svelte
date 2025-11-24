@@ -27,6 +27,8 @@
 
 <style>
 
+
+
 h1, h2, h3, p {
         display: inline-block;
         /*Ger utrymme mellan element*/
