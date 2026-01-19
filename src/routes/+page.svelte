@@ -3,7 +3,7 @@
 <main>
   <div>
 
-    <h1 class="name">Förnamn Efternamn </h1>
+    <h1 class="name">Anton Westin </h1>
     <h2>Här har jag samlat min uppgifter jag gjort i samband med webbutveckling i årskurs 2 på Maja Beskowgymnasiet!</h2>
     <h3>Inspirerade citat för min webbutvecklingsresa:</h3>
     <!--Under denna kommer vi lägga till fler element-->
@@ -14,7 +14,7 @@
     <p style="background-color:pink">
         "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - <span>Patrick McKenzie, software engineer and entrepreneur</span>.
     </p>
-
+    
   </div>
     <!--Här kommer vi lägga till en bild senare i uppgiften 1.2.4 Extra styling-->  
 

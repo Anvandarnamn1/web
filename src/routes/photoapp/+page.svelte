@@ -21,8 +21,9 @@
 
     <img src={picture} alt="Flexbox egenskaper">
     </div>
-
+    
  </div>
+ 
  <style>
     .photos{
         display:flex;
