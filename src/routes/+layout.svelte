@@ -17,6 +17,7 @@
 <a href="{base}/register">Register</a>
 <a href="{base}/shoppinglist">Inköpslista</a>
 <a href="{base}/memory">Memory</a>
+<a href="{base}/chat">Chat</a>
 <a href="{base}/test">test</a>
 </nav>
 
