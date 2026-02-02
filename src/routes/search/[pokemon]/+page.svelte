@@ -15,9 +15,9 @@
 </article>
 <h1>{pokemon.response.name}</h1>
 <section>
-<h2>{pokemon.response.weight}</h2>
-<h2>{pokemon.response.order}</h2>
-<h2>{pokemon.response.height}</h2>
+<h2>Weight: {pokemon.response.weight}</h2>
+<h2>Order: {pokemon.response.order}</h2>
+<h2>Height: {pokemon.response.height}</h2>
 </section>
 
 {/await}  
