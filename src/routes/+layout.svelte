@@ -11,14 +11,15 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
-<nav>
-<a href="{base}/">Hem</a>
-<a href="{base}/photoapp">Fotoapp</a>
-<a href="{base}/register">Register</a>
-<a href="{base}/shoppinglist">Inköpslista</a>
-<a href="{base}/memory">Memory</a>
-<a href="{base}/chat">Chat</a>
-<a href="{base}/test">test</a>
+<nav class="nav">
+<a href="{base}/"class="link">Hem</a>
+<a href="{base}/photoapp"class="link">Fotoapp</a>
+<a href="{base}/register"class="link">Register</a>
+<a href="{base}/shoppinglist"class="link">Inköpslista</a>
+<a href="{base}/memory"class="link">Memory</a>
+<a href="{base}/chat"class="link">Chat</a>
+<a href="{base}/search"class="link">Search</a>
+<a href="{base}/test"class="link">test</a>
 </nav>
 
 {@render children?.()}
@@ -29,6 +30,14 @@
   		padding: 0%;
   		height: 100vh;
   		width: 100vw;
+		
 }    
+.nav{
+	background-color:lightblue;
+	padding:3px;
 
+}
+.link{
+	color:black;
+}
 </style>
